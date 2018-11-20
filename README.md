@@ -8,5 +8,6 @@ Tokenizing and Indexing comments
 Use Logistic Regression (LR), Convolutional neural network (CNN), Long Short-Term Memory (LSTM) to build models
 Compare the results from different alogrithms
 Predict commens with the best model
-\
+
+
 Technicals: Numpy, Pandas, Regular Expression, Matplotlib, Scikit-learn, Keras
